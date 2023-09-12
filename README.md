@@ -85,8 +85,9 @@ import { привет } from "пример-плагина";
 ### Установка зависимостей
 ```bash
 $ npm i
-### Запуск Development сервера
 ```
+### Запуск Development сервера
+
 ```bash
 npm start
 ```
